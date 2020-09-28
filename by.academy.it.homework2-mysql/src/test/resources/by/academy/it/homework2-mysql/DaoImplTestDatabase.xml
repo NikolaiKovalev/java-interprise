@@ -1,0 +1,12 @@
+<dataset>
+
+    <expenses num="1" paydate="2020-02-02 00:00:00" receiver="3" value="225.7"/>
+    <expenses num="2" paydate="2020-05-02 00:00:00" receiver="2" value="117.5"/>
+    <expenses num="3" paydate="1999-06-02 00:00:00" receiver="3" value="230.1"/>
+
+    <receivers num="4" name="gippo"/>
+    <receivers num="5" name="evroopt"/>
+    <receivers num="6" name="green"/>
+
+
+</dataset>
